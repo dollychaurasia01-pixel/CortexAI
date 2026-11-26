@@ -1,4 +1,4 @@
-# 🚀 VCortexAI – Multi-Agent AI Platform
+# 🚀 CortexAI – Multi-Agent AI Platform
 
 **VCortexAI** is a full-stack, multi-agent AI platform built using the MERN stack and modern AI technologies. It leverages LangChain, LangGraph, and Retrieval-Augmented Generation (RAG) to build intelligent AI agents capable of handling complex tasks, processing documents, and generating context-aware responses.
 
